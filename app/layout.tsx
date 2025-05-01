@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "FinNote - Platform Manajemen Keuangan Pribadi",
   description: "Kelola keuangan pribadi Anda dengan mudah dan efisien",
-    generator: 'v0.dev'
+    generator: 'ZoraLucas'
 }
 
 export default function RootLayout({
