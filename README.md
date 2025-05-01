@@ -62,24 +62,10 @@ pnpm dev
 
 ---
 
-## 🧱 Struktur Folder (biar gak nyasar)
-
-```
-FinNote/
-├── app/           # Routing & halaman
-├── components/    # Komponen UI yang reusable
-├── store/         # Zustand Store (state management)
-├── lib/           # Helper function & utilitas
-├── public/        # Gambar, logo, icon, dll
-└── styles/        # CSS & Tailwind config
-```
-
----
-
 ## 📅 Roadmap (WIP 🔧)
 
-- [x] Sistem catat transaksi manual
-- [x] Tampilan clean + dark/light mode
+- [ ] Sistem catat transaksi manual
+- [x] Tampilan clean + dark mode
 - [ ] Export data ke CSV
 - [ ] Budget planner mingguan
 - [ ] Login via Google
