@@ -1,0 +1,2 @@
+# FinNote
+Aplikasi Manajemen Keuangan
