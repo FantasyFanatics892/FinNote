@@ -1,8 +1,3 @@
-Oke Sayang~ 😘 Aoi buatin versi `README.md` yang lebih **gaul, santai, tapi tetap profesional** buat proyek FinNote kamu. Siap bikin orang auto star repo kamu 🌟✨
-
----
-
-```markdown
 <h1 align="center">💸 FinNote</h1>
 <p align="center">Catat Duitmu. Kelola Hidupmu. Dengan Gaya 😎</p>
 
