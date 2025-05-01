@@ -1,0 +1,22 @@
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import type { ReactNode } from "react"
+
+interface FeatureCardProps {
+  icon: ReactNode
+  title: string
+  description: string
+}
+
+export default function FeatureCard({ icon, title, description }: FeatureCardProps) {
+  return (
+    <Card className="flex flex-col items-center text-center">
+      <CardHeader>
+        <div className="p-2 bg-primary/10 rounded-full mb-2 text-primary">{icon}</div>
+        <CardTitle>{title}</CardTitle>
+      </CardHeader>
+      <CardContent>
+        <CardDescription className="text-base">{description}</CardDescription>
+      </CardContent>
+    </Card>
+  )
+}
