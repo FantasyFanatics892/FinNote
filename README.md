@@ -51,7 +51,7 @@ pnpm install
 pnpm dev
 ```
 
-🔗 Akses via browser: [https://finnote.zora.my.id]
+🔗 Akses via browser: [FinNote Site](https://finnote.zora.my.id)
 
 ---
 
